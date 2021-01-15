@@ -1,9 +1,8 @@
-
+author: GitHub User
 --
 title:"Bala"
 date : 2021-01-15
 --
-author: GitHub User
 theme: minima
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
